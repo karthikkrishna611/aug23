@@ -13,3 +13,6 @@ Push:  we will push the repos to the remote from the local repos
 Pull: get the update code from remote repo to the both local and local file system
 
 git checkout <branch name>
+
+git merege:
+we must on our 
