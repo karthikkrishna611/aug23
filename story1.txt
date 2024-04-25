@@ -13,4 +13,3 @@ we will take all this changes from local respository to remote respository is ca
 if we want to get the updated code from  remote respository to both local respository and local file system is called "pull"
 git checkout [brach name ]
 we can make the changes only in our branch only it was the rule we have to follow 
-
