@@ -22,6 +22,7 @@ commit messages - file name or created or updated or feature or funcionality
 commit - taking staged files from local file system to local repo.
 push - taking changes from  local repo to remote repo.
 pull - getting updates from remote repo to both local repo and local file system
-merge - combining two branches together.
+merge - combining two branches together. initially we shud be on our feature branch (using git status) 
+git merge origin/dev into <our_branch>
 
 git checkout newbranchname - will help us to navigate to the other branch in our local repo
