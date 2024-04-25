@@ -1,0 +1,18 @@
+Clone - mirroring the repo from the source for the first time.
+
+Git status- it will use the information on which branch we are on.
+                       Did we make any changes to any of the files.
+Git Checkout – after the main branch is downloaded in order to change the working branch from the present one.
+
+Remote
+Local Repository
+Local File System
+Clone _ Downloading the code from remote repository to both local repository and local file system for the first time.
+Git Status_ It will you in which branch you are currently working on.
+                      _ Did we make any changes in both local repository and local file system for the first time.
+
+
+
+Commit – we will take the stagged updates and we will move them into local repository from local file system.
+ 
+
