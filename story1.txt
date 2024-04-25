@@ -1,1 +1,16 @@
 I am working on story1
+clone: downloading the code from remote respository to both local respository and local file system for the first time
+git status: it will tellyou which branch working on 
+             did we make any changes to our files both local respository and local filesystem
+feature branches: 
+bug fix branches: it indicates that there is some issue which is created previous memebers 
+staging : we select the files which we need to send from local file system to local respository
+          for staging = git add .
+after staging from local file system next is commit (-m="")
+commit= file name , created or updated
+after staging we will do commit where from local file system tro local respository this process is called commit
+we will take all this changes from local respository to remote respository is called push
+if we want to get the updated code from  remote respository to both local respository and local file system is called "pull"
+git checkout [brach name ]
+we can make the changes only in our branch only it was the rule we have to follow 
+
