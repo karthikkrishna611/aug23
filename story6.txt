@@ -1,0 +1,31 @@
+Git clone url – 
+Mirroring/copying the code from the remote repo to both local file system for the first time is called clone.
+
+Git status – 
+provide data to us on which branch (current working branch) we are on.
+Did we make any changes to any of the local files/local repo.
+
+Git checkout branchname – 
+	Will switch to the mentioned branch from the current one.
+
+Git add
+
+Git commit -m=“#comments#"
+
+Git push
+
+bug/fix branchname - modified a part of code and want to save it in a separate bug fix branch.
+
+staging - preparation where we select the files which we need to be committed from local files to local repo.
+
+commit messages - file name or created or updated or feature or funcionality
+commit - taking staged files from local file system to local repo.
+push - taking changes from  local repo to remote repo.
+pull - getting updates from remote repo to both local repo and local file system
+merge - combining two branches together. initially we shud be on our feature branch (using git status) 
+git merge origin/dev into <our_branch>
+
+git checkout newbranchname - will help us to navigate to the other branch in our local repo
+
+merge to be done
+
