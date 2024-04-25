@@ -1,0 +1,13 @@
+i am working on story3 
+Clone means downloading the code from remote repository to both local repository and to the local file system for the first time.
+
+Git status means 
+1.it will tell you which current branch on you working on.
+2.Did we make any changes to the local files or local repository files.
+Staging means in the staging we select the files which we need to send from the local file system to the local repository. For the staging command is  Git add .
+
+Commit for commit there is a message like -m=“ “. commit means  taking the staged files,updatesand we will move them into from the local files to moving local repository.
+What is major or minor comments or messages 
+
+Git Push means we will push files from local files system to local repository
+Git Pull command get the updated code from remote repository to both local file system and local repository 
