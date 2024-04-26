@@ -27,4 +27,7 @@ git merge origin/dev into <our_branch>
 
 git checkout newbranchname - will help us to navigate to the other branch in our local repo
 
+
 git merge origin/dev origin/story6
+
+
