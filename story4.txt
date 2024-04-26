@@ -1,0 +1,18 @@
+Iam working on story4
+
+Clone: downloading the code from the remote repo to both local repo and local file system for the first time
+
+git status: it will tell you which current working branch
+Did we make an changes the file in both local and local file system
+Staging: the staging we select the files which we need to send from the local file systems to the local repo 
+Commit: taking the staged files and updates and will do the local files to moving local repository
+Use appropriate comments/ messages 
+
+Push:  we will push the repos to the remote from the local repos 
+
+Pull: get the update code from remote repo to the both local and local file system
+
+git checkout <branch name>
+
+git merege:
+we must on our 
